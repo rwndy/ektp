@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ktp {
+  display: inline-block;
+  width: 400px;
+  height: 220px;
+  background-color: lightblue;
+  border-radius: 4px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.prov {
+  margin-top: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+  font-size: 14px;
+}
+
+.kab {
+  position: absolute;
+  top: 100%;
+  left: 29%;
+}
+
+.nik {
+  margin-top: 20px;
+  text-transform: uppercase;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.nik-titik {
+  padding-left: 10px;
+  padding-right:6px;
+  margin-left: 70px;
+}
+
+.nama {
+  margin-top: 10px;
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.nama-titik {
+  margin-left: 20px;
+  text-transform: uppercase;
+}
+
+.ttl {
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.JK {
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.gol {
+  margin-left: 15px;
+}
+
+.alamat {
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.rt {
+  font-size: 12px;
+  margin-left: 10px;
+  padding-left: 28px;
+}
+
+.kel {
+  font-size: 12px;
+  margin-left: 10px;
+  padding-left: 28px;
+}
+
+.kec {
+  font-size: 12px;
+  margin-left: 10px;
+  padding-left: 28px;
+}
+
+.nama-titik1 {
+  margin-left: 73px;
+  text-transform: uppercase;
+}
+
+.nama-titik3 {
+  margin-left: 33px;
+  text-transform: uppercase;
+}
+
+.nama-titik4 {
+  margin-left: 68px;
+  text-transform: uppercase;
+}
+
+.nama-titik5 {
+  margin-left: 54px;
+  text-transform: uppercase;
+}
+
+.nama-titik6 {
+  margin-left: 33px;
+  text-transform: uppercase;
+}
+
+.nama-titik7 {
+  margin-left: 17px;
+  text-transform: uppercase;
+}
+
+img {
+  width: 80px;
+  height:100px;
+  float: right;
+  padding: 17px;
+  margin-top: 30px;
+}
